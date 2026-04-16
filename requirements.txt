@@ -1,0 +1,6 @@
+streamlit
+itur
+folium
+streamlit-folium
+geopy
+astropy
